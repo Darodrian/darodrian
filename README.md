@@ -1,10 +1,10 @@
-<!-- HEADER -->
 <div align="center">
 
-# 👨‍💻 Alonso Gonzalez  
-**Full-Stack JavaScript Developer**
+# 🕯️ **Alonso Gonzalez**  
+### *“The Wandering Coder”*
 
-Building clean interfaces, fast APIs, and modern web experiences.
+> *A craftsman of scripts and systems,  
+> walking the dim path between logic and creation.*
 
 <br>
 
@@ -16,62 +16,59 @@ Building clean interfaces, fast APIs, and modern web experiences.
 
 <br>
 
-<!-- ABOUT -->
-## 👋 About Me
+## ⚔️ **Prologue**
 
-I'm a programmer who enjoys creating useful, visually polished, and efficient software.  
-Most of my work revolves around:
-
-- Building modern UI/UX with **React** & **Next.js**  
-- Crafting backend services using **Node.js** & **Express**  
-- Writing scalable, clean, and maintainable **TypeScript**  
-- Exploring new tools, frameworks, and dev workflows  
-
-I like to keep things simple, but well-designed.
+In forgotten corners of the web, where silent processes breathe and dormant servers stir,  
+a lone programmer persists.  
+Bound to the craft of code, wielding the tools of the JavaScript realms,  
+he forges interfaces, summons APIs, and shapes the unseen fragments of the digital world.
 
 <br>
 
 ---
 
-<!-- CURRENT FOCUS -->
-## 🚀 What I'm Focusing On
+## 🜙 **Disciplines of the Arcane Code**
 
-- Improving my full-stack skills with modern JS tech  
-- Building personal tools, dashboards, and small apps  
-- Studying performance, DX, and better architecture patterns  
-- Working on cleaner code, better structure, and stronger fundamentals  
+### **Languages of Power**
+- JavaScript  
+- TypeScript  
 
-<br>
+### **Arts of the Frontend Realms**
+- React  
+- Next.js  
 
----
+### **Forging in the Backend Depths**
+- Node.js  
+- Express  
 
-<!-- DEV CARD -->
-## 🧰 Tech Stack
-
-**Languages:**  
-`JavaScript` • `TypeScript`
-
-**Frontend:**  
-`React` • `Next.js`
-
-**Backend:**  
-`Node.js` • `Express`
-
-**Tools & Workflow:**  
-`Git` • `Vercel` • `API Design` • `Component Architectures`
+### **Relics & Instruments**
+- Git  
+- Vercel  
+- Patterns, architecture, and the pursuit of clean code  
 
 <br>
 
 ---
 
-<!-- CONTACT -->
-## 🤝 Connect With Me
+## ✧ **Current Quest**
+
+- Seeking refinement of full-stack mastery  
+- Forging tools and small arcane projects  
+- Studying structure, performance, and elegant design  
+- Walking steadily toward deeper understanding of the craft  
+
+<br>
+
+---
+
+## 🜂 **Sigils of Contact**
 
 <div align="left">
 
 <a href="mailto:alon.gonzalezs@gmail.com">
   <img alt="Email" width="32" src="https://cdn.simpleicons.org/gmail/white" />
-</a> &nbsp;&nbsp;
+</a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/darodrian" target="_blank">
   <img alt="Instagram" width="32" src="https://cdn.simpleicons.org/instagram/white" />
 </a>
@@ -84,6 +81,7 @@ I like to keep things simple, but well-designed.
 
 <div align="center">
 
-### “Code with clarity. Build with intention.”
+### *“In darkness, clarity is earned.”*  
+### *“In silence, code reveals its truth.”*
 
 </div>
