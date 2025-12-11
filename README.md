@@ -7,8 +7,9 @@
 > walking the dim path between logic and creation.*
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express" height="80" />
+<a href="https://github.com/Darodrian">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express" height="80" />
+</a>
 
 </div>
 
