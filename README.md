@@ -1,14 +1,13 @@
 <div align="center">
 
-# 🕯️ **Alonso Gonzalez**  
-### *“The Wandering Coder”*
+# Alonso González Soto
+### Full-Stack Developer
 
-> *A craftsman of scripts and systems,  
-> walking the dim path between logic and creation.*
+> Full-stack developer focused on building reliable web applications with clean architecture, maintainable code, and practical solutions.
 
 <br>
 <a href="https://github.com/Darodrian">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express" height="80" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,redux,angular,dotnet,git" height="80" />
 </a>
 
 </div>
@@ -17,52 +16,66 @@
 
 <br>
 
-## ⚔️ **Prologue**
+## About
 
-In forgotten corners of the web, where silent processes breathe and dormant servers stir,  
-a lone programmer persists.  
-Bound to the craft of code, wielding the tools of the JavaScript realms,  
-he forges interfaces, summons APIs, and shapes the unseen fragments of the digital world.
+I am a software developer with experience across frontend and backend systems, mainly in JavaScript, TypeScript, and modern web technologies. My background includes work on event-related booking platforms, public systems, and e-commerce interfaces.
 
-<br>
-
----
-
-## 🜙 **Disciplines of the Arcane Code**
-
-### **Languages of Power**
-- JavaScript  
-- TypeScript  
-
-### **Arts of the Frontend Realms**
-- React  
-- Next.js  
-
-### **Forging in the Backend Depths**
-- Node.js  
-- Express  
-
-### **Relics & Instruments**
-- Git  
-- Vercel  
-- Patterns, architecture, and the pursuit of clean code  
+I value clear communication, teamwork, problem solving, and building solutions that are easy to maintain and scale.
 
 <br>
 
 ---
 
-## ✧ **Current Quest**
+## Skills
 
-- Seeking refinement of full-stack mastery  
-- Forging tools and small arcane projects  
-- Studying structure, performance, and elegant design  
-- Walking steadily toward deeper understanding of the craft  
+### Languages
+- JavaScript
+- TypeScript
+- SQL
+- Java
+- Visual Basic
+- C#
+
+### Frameworks and Technologies
+- React
+- Node.js
+- Next.js
+- Express
+- Redux Toolkit
+- Angular
+- .NET
+- Spring Boot
+- Jest
+
+### Tools
+- Git
+- SQL Server
+- Postman
+- Jira
+
+### Strengths
+- Communication
+- Teamwork
+- Problem solving
+- Empathy
+- Adaptability
 
 <br>
 
 ---
 
-## 🜂 **Sigils of Contact**
+## Current Focus
+
+- Strengthening full-stack development skills
+- Building practical projects and useful tools
+- Improving software architecture and maintainability
+- Continuing to learn modern web development practices
+
+<br>
+
+---
+
+## Contact
 
 <div align="left">
 
@@ -70,19 +83,12 @@ he forges interfaces, summons APIs, and shapes the unseen fragments of the digit
   <img alt="Email" width="32" src="https://cdn.simpleicons.org/gmail/white" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/darodrian" target="_blank">
-  <img alt="Instagram" width="32" src="https://cdn.simpleicons.org/instagram/white" />
+<a href="https://www.linkedin.com/in/darodrian" target="_blank">
+  <img alt="LinkedIn" width="32" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" />
 </a>
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-### *“In darkness, clarity is earned.”*  
-### *“In silence, code reveals its truth.”*
+&nbsp;&nbsp;
+<a href="https://github.com/Darodrian" target="_blank">
+  <img alt="GitHub" width="32" src="https://cdn.simpleicons.org/github/white" />
+</a>
 
 </div>
