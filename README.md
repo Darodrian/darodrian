@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alonso González Soto
+# Darodrian
 ### Full-Stack Developer
 
 > Full-stack developer focused on building reliable web applications with clean architecture, maintainable code, and practical solutions.
