@@ -1,8 +1,5 @@
 <div align="center">
 
-> Full-stack developer focused on building reliable web applications with clean architecture, maintainable code, and practical solutions.
-
-<br>
 <a href="https://github.com/Darodrian">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,redux,angular,dotnet,git" height="80" />
 </a>
@@ -50,24 +47,6 @@ I value clear communication, teamwork, problem solving, and building solutions t
 - Postman
 - Jira
 
-### Strengths
-- Communication
-- Teamwork
-- Problem solving
-- Empathy
-- Adaptability
-
-<br>
-
----
-
-## Current Focus
-
-- Strengthening full-stack development skills
-- Building practical projects and useful tools
-- Improving software architecture and maintainability
-- Continuing to learn modern web development practices
-
 <br>
 
 ---
@@ -82,10 +61,6 @@ I value clear communication, teamwork, problem solving, and building solutions t
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darodrian" target="_blank">
   <img alt="LinkedIn" width="32" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Darodrian" target="_blank">
-  <img alt="GitHub" width="32" src="https://cdn.simpleicons.org/github/white" />
 </a>
 
 </div>
